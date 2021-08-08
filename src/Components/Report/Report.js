@@ -14,7 +14,7 @@ export default function Report() {
   return (
     <div className="Report">
       <div>
-        <Link to="files/test.pdf" target="_blank" download>
+        <Link to="assets/files/test.pdf" target="_blank" download>
           Click here to download the report
         </Link>
       </div>
