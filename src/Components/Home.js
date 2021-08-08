@@ -11,7 +11,7 @@ function Home() {
       <div>
         <img
           className="mardi_1"
-          src="assets/images/quantumcomputing.jpeg"
+          src={process.env.PUBLIC_URL + "assets/images/quantumcomputing.jpeg"}
           alt="quantumcomputing"
         />
       </div>
