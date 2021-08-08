@@ -1,28 +1,26 @@
 {
   "files": {
-    "main.css": "/QuantumComputingMiniProject/static/css/main.ebcfa9b0.chunk.css",
-    "main.js": "/QuantumComputingMiniProject/static/js/main.2dbe0fa4.chunk.js",
-    "main.js.map": "/QuantumComputingMiniProject/static/js/main.2dbe0fa4.chunk.js.map",
-    "runtime-main.js": "/QuantumComputingMiniProject/static/js/runtime-main.125af4fc.js",
-    "runtime-main.js.map": "/QuantumComputingMiniProject/static/js/runtime-main.125af4fc.js.map",
-    "static/js/2.d9db8ea2.chunk.js": "/QuantumComputingMiniProject/static/js/2.d9db8ea2.chunk.js",
-    "static/js/2.d9db8ea2.chunk.js.map": "/QuantumComputingMiniProject/static/js/2.d9db8ea2.chunk.js.map",
-    "static/js/3.d082f416.chunk.js": "/QuantumComputingMiniProject/static/js/3.d082f416.chunk.js",
-    "static/js/3.d082f416.chunk.js.map": "/QuantumComputingMiniProject/static/js/3.d082f416.chunk.js.map",
+    "main.css": "/QuantumComputingMiniProject/static/css/main.4e01e7e5.chunk.css",
+    "main.js": "/QuantumComputingMiniProject/static/js/main.901cc22d.chunk.js",
+    "main.js.map": "/QuantumComputingMiniProject/static/js/main.901cc22d.chunk.js.map",
+    "runtime-main.js": "/QuantumComputingMiniProject/static/js/runtime-main.af7e5f3e.js",
+    "runtime-main.js.map": "/QuantumComputingMiniProject/static/js/runtime-main.af7e5f3e.js.map",
+    "static/js/2.57f7ad5e.chunk.js": "/QuantumComputingMiniProject/static/js/2.57f7ad5e.chunk.js",
+    "static/js/2.57f7ad5e.chunk.js.map": "/QuantumComputingMiniProject/static/js/2.57f7ad5e.chunk.js.map",
+    "static/js/3.f10056c4.chunk.js": "/QuantumComputingMiniProject/static/js/3.f10056c4.chunk.js",
+    "static/js/3.f10056c4.chunk.js.map": "/QuantumComputingMiniProject/static/js/3.f10056c4.chunk.js.map",
     "index.html": "/QuantumComputingMiniProject/index.html",
-    "static/css/main.ebcfa9b0.chunk.css.map": "/QuantumComputingMiniProject/static/css/main.ebcfa9b0.chunk.css.map",
-    "static/js/2.d9db8ea2.chunk.js.LICENSE.txt": "/QuantumComputingMiniProject/static/js/2.d9db8ea2.chunk.js.LICENSE.txt",
+    "static/css/main.4e01e7e5.chunk.css.map": "/QuantumComputingMiniProject/static/css/main.4e01e7e5.chunk.css.map",
+    "static/js/2.57f7ad5e.chunk.js.LICENSE.txt": "/QuantumComputingMiniProject/static/js/2.57f7ad5e.chunk.js.LICENSE.txt",
     "static/js/pdf.worker.d671c4b8.worker.js": "/QuantumComputingMiniProject/static/js/pdf.worker.d671c4b8.worker.js",
     "static/js/pdf.worker.d671c4b8.worker.js.LICENSE.txt": "/QuantumComputingMiniProject/static/js/pdf.worker.d671c4b8.worker.js.LICENSE.txt",
     "static/js/pdf.worker.d671c4b8.worker.js.map": "/QuantumComputingMiniProject/static/js/pdf.worker.d671c4b8.worker.js.map",
-    "static/media/algorithm.983f2b60.pdf": "/QuantumComputingMiniProject/static/media/algorithm.983f2b60.pdf",
-    "static/media/click1.07cda4b8.wav": "/QuantumComputingMiniProject/static/media/click1.07cda4b8.wav",
-    "static/media/click2.5b5930c4.wav": "/QuantumComputingMiniProject/static/media/click2.5b5930c4.wav"
+    "static/media/algorithm.983f2b60.pdf": "/QuantumComputingMiniProject/static/media/algorithm.983f2b60.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.125af4fc.js",
-    "static/js/2.d9db8ea2.chunk.js",
-    "static/css/main.ebcfa9b0.chunk.css",
-    "static/js/main.2dbe0fa4.chunk.js"
+    "static/js/runtime-main.af7e5f3e.js",
+    "static/js/2.57f7ad5e.chunk.js",
+    "static/css/main.4e01e7e5.chunk.css",
+    "static/js/main.901cc22d.chunk.js"
   ]
 }
