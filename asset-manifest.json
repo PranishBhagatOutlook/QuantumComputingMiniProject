@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.ebcfa9b0.chunk.css",
+    "main.js": "/my-website/static/js/main.d52c5331.chunk.js",
+    "main.js.map": "/my-website/static/js/main.d52c5331.chunk.js.map",
+    "runtime-main.js": "/my-website/static/js/runtime-main.feb16eac.js",
+    "runtime-main.js.map": "/my-website/static/js/runtime-main.feb16eac.js.map",
+    "static/js/2.fbb4e697.chunk.js": "/my-website/static/js/2.fbb4e697.chunk.js",
+    "static/js/2.fbb4e697.chunk.js.map": "/my-website/static/js/2.fbb4e697.chunk.js.map",
+    "static/js/3.d082f416.chunk.js": "/my-website/static/js/3.d082f416.chunk.js",
+    "static/js/3.d082f416.chunk.js.map": "/my-website/static/js/3.d082f416.chunk.js.map",
+    "index.html": "/my-website/index.html",
+    "static/css/main.ebcfa9b0.chunk.css.map": "/my-website/static/css/main.ebcfa9b0.chunk.css.map",
+    "static/js/2.fbb4e697.chunk.js.LICENSE.txt": "/my-website/static/js/2.fbb4e697.chunk.js.LICENSE.txt",
+    "static/js/pdf.worker.ee77b01a.worker.js": "/my-website/static/js/pdf.worker.ee77b01a.worker.js",
+    "static/js/pdf.worker.ee77b01a.worker.js.LICENSE.txt": "/my-website/static/js/pdf.worker.ee77b01a.worker.js.LICENSE.txt",
+    "static/js/pdf.worker.ee77b01a.worker.js.map": "/my-website/static/js/pdf.worker.ee77b01a.worker.js.map",
+    "static/media/click1.07cda4b8.wav": "/my-website/static/media/click1.07cda4b8.wav",
+    "static/media/click2.5b5930c4.wav": "/my-website/static/media/click2.5b5930c4.wav",
+    "static/media/test.e6c2703b.pdf": "/my-website/static/media/test.e6c2703b.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feb16eac.js",
+    "static/js/2.fbb4e697.chunk.js",
+    "static/css/main.ebcfa9b0.chunk.css",
+    "static/js/main.d52c5331.chunk.js"
+  ]
+}
