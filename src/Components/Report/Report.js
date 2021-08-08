@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useState } from "react";
+import { Document, Page } from "react-pdf";
 import "../../App.css";
 import SinglePagePDFViewer from "./single-page";
 import AllPagesPDFViewer from "./all-page";
@@ -12,29 +13,41 @@ pdfjs.GlobalWorkerOptions.workerSrc = worker;
 
 export default function Report() {
   return (
-    <div className="Report">
-      <div>
-        <a
-          href={process.env.PUBLIC_URL + "/assets/files/algorithm.pdf"}
-          target="_blank"
-          download
-          rel="noreferrer"
-        >
-          Click here to download the report
-        </a>
+    <div>
+      <div className="Report">
+        <div>
+          <a
+            href={process.env.PUBLIC_URL + "/assets/files/algorithm.pdf"}
+            target="_blank"
+            download
+            rel="noreferrer"
+          >
+            Click here to download the report
+          </a>
+        </div>
+        <div>
+          <a
+            href="https://github.com/PranishBhagatOutlook/qcNotebook"
+            target="_blank"
+            download
+            rel="noreferrer"
+          >
+            Click here to get the notebook
+          </a>
+        </div>
+
+        <h4>Single Page</h4>
+        <SinglePagePDFViewer pdf={samplePDF} />
+
+        <hr />
+
+        <h4>All Pages</h4>
+        <div className="all-page-container">
+          <AllPagesPDFViewer pdf={samplePDF} />
+        </div>
+
+        <hr />
       </div>
-
-      <h4>Single Page</h4>
-      <SinglePagePDFViewer pdf={samplePDF} />
-
-      <hr />
-
-      <h4>All Pages</h4>
-      <div className="all-page-container">
-        <AllPagesPDFViewer pdf={samplePDF} />
-      </div>
-
-      <hr />
     </div>
   );
 }

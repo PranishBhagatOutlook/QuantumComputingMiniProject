@@ -22,6 +22,9 @@ function Navbar() {
         <Link style={navStyle} to="/report">
           <li>REPORT</li>
         </Link>
+        <Link style={navStyle} to="/references">
+          <li>REFERENCES</li>
+        </Link>
         {/* <Link style={navStyle} to="/notebook">
           <li>JUPYTER NOTEBOOK</li>
         </Link> */}
