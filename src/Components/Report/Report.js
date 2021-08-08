@@ -2,7 +2,7 @@ import React from "react";
 import "../../App.css";
 import SinglePagePDFViewer from "./single-page";
 import AllPagesPDFViewer from "./all-page";
-import samplePDF from "./test.pdf";
+import samplePDF from "./algorithm.pdf";
 import "./styles.css";
 import { pdfjs } from "react-pdf";
 import worker from "pdfjs-dist/webpack";
@@ -15,7 +15,7 @@ export default function Report() {
     <div className="Report">
       <div>
         <a
-          href={process.env.PUBLIC_URL + "/assets/files/test.pdf"}
+          href={process.env.PUBLIC_URL + "/assets/files/algorithm.pdf"}
           target="_blank"
           download
           rel="noreferrer"

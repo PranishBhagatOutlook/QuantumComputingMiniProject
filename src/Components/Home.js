@@ -40,7 +40,7 @@ function Home() {
         <li>
           Prepared a review report on the implementation. Download the report
           <a
-            href={process.env.PUBLIC_URL + "/assets/files/test.pdf"}
+            href={process.env.PUBLIC_URL + "/assets/files/algorithm.pdf"}
             target="_blank"
             download
             rel="noreferrer"
