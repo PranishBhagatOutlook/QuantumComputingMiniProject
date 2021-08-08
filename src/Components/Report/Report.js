@@ -18,6 +18,7 @@ export default function Report() {
           href={process.env.PUBLIC_URL + "/assets/files/test.pdf"}
           target="_blank"
           download
+          rel="noreferrer"
         >
           Click here to download the report
         </a>
