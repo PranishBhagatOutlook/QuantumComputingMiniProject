@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/QuantumComputingMiniProject/static/css/main.ebcfa9b0.chunk.css",
-    "main.js": "/QuantumComputingMiniProject/static/js/main.514419fe.chunk.js",
-    "main.js.map": "/QuantumComputingMiniProject/static/js/main.514419fe.chunk.js.map",
+    "main.js": "/QuantumComputingMiniProject/static/js/main.350ab882.chunk.js",
+    "main.js.map": "/QuantumComputingMiniProject/static/js/main.350ab882.chunk.js.map",
     "runtime-main.js": "/QuantumComputingMiniProject/static/js/runtime-main.125af4fc.js",
     "runtime-main.js.map": "/QuantumComputingMiniProject/static/js/runtime-main.125af4fc.js.map",
     "static/js/2.16dfe634.chunk.js": "/QuantumComputingMiniProject/static/js/2.16dfe634.chunk.js",
@@ -17,12 +17,13 @@
     "static/js/pdf.worker.d671c4b8.worker.js.map": "/QuantumComputingMiniProject/static/js/pdf.worker.d671c4b8.worker.js.map",
     "static/media/click1.07cda4b8.wav": "/QuantumComputingMiniProject/static/media/click1.07cda4b8.wav",
     "static/media/click2.5b5930c4.wav": "/QuantumComputingMiniProject/static/media/click2.5b5930c4.wav",
+    "static/media/quantumcomputing.1192c981.jpeg": "/QuantumComputingMiniProject/static/media/quantumcomputing.1192c981.jpeg",
     "static/media/test.e6c2703b.pdf": "/QuantumComputingMiniProject/static/media/test.e6c2703b.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.125af4fc.js",
     "static/js/2.16dfe634.chunk.js",
     "static/css/main.ebcfa9b0.chunk.css",
-    "static/js/main.514419fe.chunk.js"
+    "static/js/main.350ab882.chunk.js"
   ]
 }
