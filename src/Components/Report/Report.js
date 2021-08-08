@@ -14,7 +14,11 @@ export default function Report() {
   return (
     <div className="Report">
       <div>
-        <a href="assets/files/test.pdf" target="_blank" download>
+        <a
+          href={process.env.PUBLIC_URL + "/assets/files/test.pdf"}
+          target="_blank"
+          download
+        >
           Click here to download the report
         </a>
       </div>
