@@ -2,7 +2,7 @@ import "./App.css";
 import About from "./Components/About";
 import Project from "./Components/Project";
 import Navbar from "./Components/Navbar";
-import Home from "./Components/Home/Home";
+import Home from "./Components/Home";
 import Notebook from "./Components/Notebook/Notebook";
 import Report from "./Components/Report/Report";
 import Blog from "./Components/Blog";

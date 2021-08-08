@@ -1,6 +1,5 @@
 import React from "react";
-import "../../App.css";
-import image from "./quantumcomputing.jpeg";
+import "../App.css";
 
 function Home() {
   return (
@@ -10,7 +9,11 @@ function Home() {
         assignment for Quantum Computing.
       </p>
       <div>
-        <img className="qc" src={image} alt="quantumcomputing" />
+        <img
+          className="mardi_1"
+          src="assets/images/quantumcomputing.jpeg"
+          alt="quantumcomputing"
+        />
       </div>
     </div>
   );
