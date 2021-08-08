@@ -3,14 +3,13 @@ import About from "./Components/About";
 import Project from "./Components/Project";
 import Navbar from "./Components/Navbar";
 import Home from "./Components/Home";
-import Notebook from "./Components/Notebook/Notebook";
 import Report from "./Components/Report/Report";
 import Blog from "./Components/Blog";
 // import Connect from "./Components/Connect";
 import Music from "./Components/Music";
 import NotFound from "./Components/NotFound";
 import Calculator from "./Components/Calculator/Calculator.js";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import Photos from "./Components/Photos";
 import Metronome from "./Components/Metronome/Metronome";
 
@@ -25,7 +24,6 @@ function App() {
           <Route path="/about" component={About}></Route>
           <Route path="/projects" component={Project}></Route>
           <Route path="/report" component={Report}></Route>
-          <Route path="/notebook" component={Notebook}></Route>
           {/* <Route path="/blog" component={Blog}></Route> */}
           {/* <Route path="/connect" component={Connect}></Route> */}
           {/* <Route path="/music" component={Music}></Route> */}
