@@ -17,11 +17,14 @@ function Navbar() {
           <li>ABOUT</li>
         </Link>
         <Link style={navStyle} to="/projects">
-          <li>PROJECTS</li>
+          <li>PROJECT</li>
         </Link>
         <Link style={navStyle} to="/report">
           <li>REPORT</li>
         </Link>
+        {/* <Link style={navStyle} to="/notebook">
+          <li>JUPYTER NOTEBOOK</li>
+        </Link> */}
         {/* <Link style={navStyle} to="/blog">
           <li>BLOG</li>
         </Link>
