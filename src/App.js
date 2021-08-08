@@ -9,7 +9,7 @@ import Blog from "./Components/Blog";
 import Music from "./Components/Music";
 import NotFound from "./Components/NotFound";
 import Calculator from "./Components/Calculator/Calculator.js";
-import { HashRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Photos from "./Components/Photos";
 import Metronome from "./Components/Metronome/Metronome";
 
